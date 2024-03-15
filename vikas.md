@@ -79,3 +79,69 @@ JavaScript Keywords:-
 (a) var  myvar = "Hello jaipur";      {Globle Scope}
 (b) let  myvar = "Hello jaipur";      {Block Scope}
 (c) const myvar = "Hello jaipur";     {Block Scope}
+
+
+
+
+
+
+<!-- ------------------------------------------- 2nd Test Paper --------------------------------------- -->
+
+
+..............Q.no. 1' true && false'?.................answer :-- "false"
+
+.............Q.no.  2' true || false'?.................answer :--  "true"
+
+
+.............Q.no. 3' (5 > 3) && (10 < 20)?.................answer :-- "true"
+
+
+.............Q.no. 4 ' (10===10) || (5 > 8)?'.................answer :--"true"
+
+
+.............Q.no. 5 ' (true && false) || true ?'.................answer :--"true"
+
+
+.............Q.no. 6 ' false && (true || false)?'.................answer :--"false"
+
+
+.............Q.no. 7 ' (5 <= 5) && (false || true)?'.................answer :-- "true"
+
+
+.............Q.no. 8 ' true && true && false?'.................answer :-- "false"
+
+
+.............Q.no. 9 'false || false || true?'.................answer :-- "true"
+
+
+.............Q.no. 10 ' (10 >= 5) && (3 < 2) || (8 === 8) ?'.................answer :-- "true"
+
+
+<!-- ....................... Hemraj Guruji Q.?.................................. -->
+
+
+<!-- ......Q.no. 11...... -->
+--> Given a = 27 and b = 14, what is the result of (a % 10 === 7 && b % 5 === 0) || (a * b > 300 && b - a < 5)?
+
+let a = 27;
+let b = 14;
+
+==> (27 % 10 === 7 && 14 % 5 ===0) || (27 * 14 > 300 && 14 - 27 < 5)
+
+==> (7 === 7 && 4 === 0) || (378 > 300 && -13 < 5)
+
+==> (false) || (true)
+
+==> ans :- "true"
+
+        
+
+
+
+
+
+
+
+
+
+
